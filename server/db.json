@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "post",
+      "post": "texto post\n"
+    },
+    {
+      "id": 7,
+      "title": "post 7",
+      "post": "adiossssssssssss"
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "postId": 3,
+      "userId": 2,
+      "comment": "Cras ac elit sit amet mi placerat bibendum. Sed eleifend turpis vitae enim commodo, a lacinia ipsum ornare. Curabitur cursus pharetra ante, at malesuada erat. Suspendisse potenti. Aliquam erat volutpat. Praesent aliquet risus vitae arcu aliquet porttitor. Donec vestibulum malesuada libero quis feugiat. Integer efficitur ullamcorper sapien, at auctor mi tincidunt vel. Fusce sit amet turpis nec quam ullamcorper molestie. Vestibulum varius augue a semper malesuada. Donec sollicitudin, magna vitae semper euismod, arcu velit tristique massa, in pretium tellus odio eget nisl."
+    }
+  ]
+}
